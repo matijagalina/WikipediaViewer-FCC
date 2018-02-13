@@ -1,6 +1,6 @@
 # Wikipedia Viewer
 
-One page app which lets user to search through Wikipedia using input filed or get a random article from Wikipedia.
+One page app which lets user to search through Wikipedia using input field or get a random article from Wikipedia.
 ![Screenshot1](https://raw.githubusercontent.com/matijagalina/WikipediaViewer-FCC/master/img/screenshot1.PNG)
 
 It uses **jQuery** and **ajax** for fetching the data from Wikipedia API found [here](https://www.mediawiki.org/wiki/API:Main_page).
