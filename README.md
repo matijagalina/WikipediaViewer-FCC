@@ -10,7 +10,7 @@ By clicking on a list item new window will be opened containing Wikipedia articl
 
 The project fulfills the provided user stories:
 
-*User Story: I can search Wikipedia entries in a search box and see the resulting Wikipedia entries.*
+*User Story: I can search Wikipedia entries in a search box and see the resulting Wikipedia entries.* <br>
 *User Story: I can click a button to see a random Wikipedia entry.*
 
 Codepen link to quickly see how it looks and behaves: [codepen link](https://codepen.io/matijagalina/pen/xYrMGr)
