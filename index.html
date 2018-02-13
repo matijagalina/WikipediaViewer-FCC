@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Wikipedia Viewer-FCC</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css?family=Alegreya|Open+Sans" rel="stylesheet">
+    <script src="http://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+    <script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
+</head>
+
+<body>
+    <main>
+        <header>
+            <h1>Wikipedia Viewer</h1>
+            <p>Search through Wikipedia for knowledge</p>
+        </header>
+        <section>
+            <div id="searchBox">
+                <input id="searchField" type="text" placeholder="Write here..." autocomplete="off">
+                <div id="buttonsBox">
+                    <button id="searchBtn">SEARCH</button>
+                    <button id="randomBtn">GIVE ME A RANDOM PAGE</button>
+                </div>
+            </div>
+            <article>
+                <ul id="list">
+
+                </ul>
+            </article>
+        </section>
+    </main>
+
+    <script src="engine.js"></script>
+</body>
+
+</html>
